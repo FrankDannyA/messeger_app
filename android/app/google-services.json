@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598282463257",
+    "project_id": "chatapp-ff078",
+    "storage_bucket": "chatapp-ff078.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598282463257:android:7b09098ebd22c544332288",
+        "android_client_info": {
+          "package_name": "com.example.messeger_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7AhEC1Guge4mrn9vBV9abhDCUaIWDg8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
